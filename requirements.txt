@@ -1,0 +1,16 @@
+# General
+ipykernel==6.23.1
+jupyter==1.0.0
+pandas==2.0.2
+
+# HuggingFace
+huggingface-hub==0.11.1
+transformers==4.25.1
+datasets==2.12.0
+
+# Others
+tiktoken==0.4.0
+tqdm==4.65.0
+
+# Torch (CUDA version)
+torch==2.0.1

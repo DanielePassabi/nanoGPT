@@ -1,0 +1,1 @@
+python sample.py --out_dir=trained_models/out-pagopa-char --device=cpu --start="Domanda: Non vedo le operazioni del cashback Risposta:"
